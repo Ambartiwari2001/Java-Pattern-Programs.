@@ -1,5 +1,5 @@
 // Right Half Pyramid Pattern.
-package Pattern_Programs;
+package Pattern_Programs_;
 import java.util.*;
 public class Pattern_Program {
 
